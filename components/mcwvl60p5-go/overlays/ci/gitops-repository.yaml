@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: mcwvl60p5-go-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/mcwvl60p5-go-gitops
